@@ -9,15 +9,16 @@
 // Input: a (number), b (number)
 // Action: Add both numbers together
 // Output: The result (number)
-function add() {
-   
+
+function add(a, b) {
+   return a + b
   }
   
   // Input: number
   // Action: Check if the number given is even or not
   // Output: The result (boolean)
-  function isEven() {
-    // write your code here
+  function isEven(number) {
+    return number % 2===0
   }
   
   // Input: name (string)
