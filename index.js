@@ -6,11 +6,11 @@
 
 /* WRITE THE CODE FOR THE FOLLOWING FUNCTIONS */
 
-Input: a (2), b (4)
-Action: (a, b)
-Output: The result (number)
-function add(a, b) {
-   return a + b
+// Input: a (number), b (number)
+// Action: Add both numbers together
+// Output: The result (number)
+function add() {
+   
   }
   
   // Input: number
